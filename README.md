@@ -1,2 +1,2 @@
-# encodingMethods
-Python project for university
+# Методи за кодиране на двоични, категорични и числови зависими данни
+Курсова работа - ПИИ
